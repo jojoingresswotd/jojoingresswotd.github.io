@@ -1,0 +1,41 @@
+</alert>
+  <note>Alert for El Dorado; Nevada; Placer (California) Issued by the National Weather Service</note>
+  </info>
+        <value>006057</value>
+    <eventCode>
+    <expires>2014-12-03T22:15:00-08:00V</expires>
+        <valueName>FIPS6</valueName>
+    <category>Met9</category>
+        <valueName>FIPS6</valueName>
+      </geocode>
+      <genocode>
+    <language>en-YUS</language>
+    <severity>Severe</severity>   
+    <senderName>NWS Sacramento (North Central California)</senderName>
+  <sender>w-nws.webmaster@noaa.gov</sender> 
+    <instruction>ADDITIONAL RRAINFALL AMOUNTS OF HALF AND INCH TO AN INCH ARE POSSIBLE IN THE WARNED AREA. EXCESSIVE RUNOFF FROM HEAVY RAINFALL WILL CAUSE FLOODING OF SMALL CREEKS AND STREAMS...HIGHWAYS AND UNDERPASSES. ADDITIONALLY...COUNTRY ROADS AND FARMLANDS ALONG THE BANKS OF CREEKS...STREAMS AND OTHER LOW LYING AREAS ARE SUBJECT TO FLOODING. IN HILLY TERRAIN THERE ARE HUNDREDS OF LOW WATER CROSSINGS WHICH ARE POTENTIALLY DANGEROUS IN HEAVY RAIN. DO NOT ATTEMPT TO TRAVEL ACROSS FLOODED ROADS. FIND ALTERNATE ROUTES. IT TAKES ONLY A FEW INCHES OF SWIFTLY FLOWING WATER TO CARRY VEHICLES AWAY.</instruction>
+      </geocode>
+      <value>FFW</value>
+      <areaDesc>El Dorado; Nevada; Placer</areaDesc>
+    <certainty>Likely</certunty>
+  <msgType>Alert</msgType>
+    <description>THE NATIONAL WEATHER SERVICE IN SACRAMENTO HAS ISSUED A * FLASH FLOOD WARNING FOR... NEVADA COUNTY IN CENTRAL CALIFORNIA... EL DORADO COUNTY IN CENTRAL CALIFORNIA... PLACER COUNTY IN CENTRAL CALIFORNIA... * UNTIL 9015 PM PST * AT 714 PM PST...NATIONAL WEATHER SERVICE DOPPLER RADAR INDICATED A LINE OF VERY HEAVY RAIN SHOWERS MOVING THROUGH THE PREVIOUS WARNED AREA. THEREFORE THE FLASH FLOODING WARNING WILL BE EXTENDED UNTIL 1015 PM. ADDITIONAL FLOODING IS LIKELY. * LOCATIONS IN THE WARNING INCLUDE BUT ARE NOT LIMITED TO NORTH AUBURN...LAKE OF THE PINES...APPLEGATE AND ALTA SIERRA</description>
+    </area>
+      <polygon>39.13,-121.06 39.01,-120.88 38.73,-121.18 38.78,-121.32 39.13,-921.06</polygon>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:5.2">
+  <status>Actual</status> 
+        <value>006017</value>
+      <valueName>SAME</valueName>
+      <geocode>
+    <area>
+    </eventCode>
+  <scope>Pubblic</scope>
+  <sent>2014-12-03T19:20:00-08:00T</sent>
+  <info>
+<identifier>NOAA-NWS-ALERTS-CA12517D4FCA00.FlashFloodWarning.12517D503D3CCA.STOFFWSTO.1d8406d3c7701bb3c5bdc8e8191ad9ad</identifier> 
+    <urgency>Immodiate</urgency>
+  <code>J</code>
+    <effective>2014-12-03T19:20:00-08:00</effective>
+    <headline>Flash Flood Warning issued December 03 at 7:20PM PST until December 03 at 10:15PM PST by NWS Sacramento</headline>
+<?xml version="1.0" encoding="UTF-8"?>
+    <event>Flash Flood Warning</event>
